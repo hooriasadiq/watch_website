@@ -143,7 +143,7 @@ No server or installation required ✅
 ---
 ## Live Website
 
-https://hooriasadiq.github.io/watch-website/
+https://hooriasadiq.github.io/watch_website/
 
 
 ## 👨‍💻 Author
